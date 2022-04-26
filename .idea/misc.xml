@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/g1hxs/AndroidStudioProjects/EgeMathematics/app/src/main/res/font/.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/g1hxs/AndroidStudioProjects/EgeMathematics/app/src/main/res/font/comfortaa.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/g1hxs/AndroidStudioProjects/EgeMathematics/app/src/main/res/font/comfortaa_bold.xml" value="0.10729166666666666" />
+        <entry key="..\:/Users/g1hxs/AndroidStudioProjects/EgeMathematics/app/src/main/res/layout/activity_base_math.xml" value="0.22" />
+        <entry key="..\:/Users/g1hxs/AndroidStudioProjects/EgeMathematics/app/src/main/res/layout/activity_degree.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/g1hxs/AndroidStudioProjects/EgeMathematics/app/src/main/res/layout/activity_formulas_algebr.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/g1hxs/AndroidStudioProjects/EgeMathematics/app/src/main/res/layout/activity_formulas_geometry.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/g1hxs/AndroidStudioProjects/EgeMathematics/app/src/main/res/layout/activity_kims_profile.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/g1hxs/AndroidStudioProjects/EgeMathematics/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/g1hxs/AndroidStudioProjects/EgeMathematics/app/src/main/res/layout/activity_profile_math.xml" value="0.16145833333333334" />
+        <entry key="..\:/Users/g1hxs/AndroidStudioProjects/EgeMathematics/app/src/main/res/layout/activity_theme.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/g1hxs/AndroidStudioProjects/EgeMathematics/app/src/main/res/layout/activity_theoretitics.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/g1hxs/AndroidStudioProjects/EgeMathematics/app/src/main/res/layout/custom_layout.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/g1hxs/AndroidStudioProjects/EgeMathematics/app/src/main/res/layout/list_item.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/g1hxs/AndroidStudioProjects/EgeMathematics/app/src/main/res/layout/text_color.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/g1hxs/AndroidStudioProjects/EgeMathematics/app/src/main/res/layout/text_size.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
