@@ -57,6 +57,17 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    public void to_exercizes(View view){
+        switch (view.getId()) {
+            case R.id.to_exercizes:
+                Intent intent = new Intent(this, exercizes.class);
+                startActivity(intent);
+                break;
+            default:
+                break;
+        }
+    }
+
 
 
 }

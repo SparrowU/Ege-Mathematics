@@ -4,13 +4,29 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#555454"
+    android:background="#DFDEDE"
     tools:context=".MainActivity">
 
     <Button
+        android:id="@+id/to_exercizes"
+        android:layout_width="327dp"
+        android:layout_height="69dp"
+        android:backgroundTint="#887D7D"
+        android:fontFamily="sans-serif-black"
+        android:onClick="to_exercizes"
+        android:text="Задания по темам"
+        android:textColor="#FAF8F8"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.523"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <Button
         android:id="@+id/theory"
-        android:layout_width="199dp"
-        android:layout_height="93dp"
+        android:layout_width="328dp"
+        android:layout_height="67dp"
         android:backgroundTint="#887D7D"
         android:fontFamily="sans-serif-black"
         android:onClick="theory"
@@ -18,32 +34,32 @@
         android:textColor="#FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintHorizontal_bias="0.506"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.603" />
 
     <Button
         android:id="@+id/prof"
-        android:layout_width="199dp"
-        android:layout_height="93dp"
+        android:layout_width="327dp"
+        android:layout_height="69dp"
         android:backgroundTint="#887D7D"
         android:fontFamily="sans-serif-black"
         android:onClick="prof"
-        android:text="Профильная"
+        android:text="Профильная КИМЫ"
         android:textColor="#FAF8F8"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintHorizontal_bias="0.51"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.954" />
+        app:layout_constraintVertical_bias="0.879" />
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/constraintLayout"
         android:layout_width="414dp"
         android:layout_height="375dp"
-        android:background="#DFDEDE"
+        android:background="#555454"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.666"
@@ -86,18 +102,18 @@
 
     <Button
         android:id="@+id/base"
-        android:layout_width="199dp"
-        android:layout_height="93dp"
+        android:layout_width="324dp"
+        android:layout_height="68dp"
         android:backgroundTint="#887D7D"
         android:fontFamily="sans-serif-black"
         android:onClick="base"
-        android:text="Базовая"
+        android:text="Базовая КИМЫ"
         android:textColor="#FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintHorizontal_bias="0.505"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.775" />
+        app:layout_constraintVertical_bias="0.74" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
